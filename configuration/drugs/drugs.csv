@@ -1,3 +1,4 @@
+Uuid,Void/Retire,Name,Concept Drug,Concept Dosage Form,Strength,odoo_price,odoo_category,odoo_type,odoo_id,_version:1
 4eb11496-3275-4087-ab5c-b1e4ea885e99,,Acide Folique Co 5mg,27e9c4ee-9d47-4b65-b314-4c5767b121cd,fdbe907b-6abc-41dc-9599-2d84105e4063,5mg,2,bahmni_product.categ_saleable_drugs,Stockable Product,0edc650f-dec3-40ba-81fb-605deb444356,
 123c4342-552a-4db9-bb0b-a7d0bd2e5849,,Acyclovir Co 400mg,783aff6f-c427-4511-8df4-872b87fad050,fdbe907b-6abc-41dc-9599-2d84105e4063,400mg,10,bahmni_product.categ_saleable_drugs,Stockable Product,c8c07f76-ad86-499c-9fd5-8bbcb3073a8a,
 a74fe93c-b023-4159-8bd6-5d40a0909636,,Acyclovir crème 3%,783aff6f-c427-4511-8df4-872b87fad050,0689bb6e-9371-4a0f-ad1c-63c135b1714d,3%,100,bahmni_product.categ_saleable_drugs,Stockable Product,46e047c3-ddfa-40fb-bb85-57cb03234edd,
@@ -94,7 +95,6 @@ c933dc30-36f6-471f-bca6-53d8a682dce1,,Metronidazole et Nystatin Ovules Vaginales
 b35c87c8-fb39-4ca4-aae9-0986349c5eaf,,MGSO4 25%,0bdba7cc-fcd1-41e1-8f79-6407d2835a78,bd1b2599-84d2-4f33-ba25-4f6d42d147a5,25%,200,bahmni_product.categ_saleable_drugs,Stockable Product,23f45a3f-8f82-4851-a9e4-2a58cbdba2da,
 61444a80-77b6-4986-b9c1-07eab731ce28,,Microlut 30,71eb922d-5a51-415a-a838-8a815280abfa,fdbe907b-6abc-41dc-9599-2d84105e4063,N/A,0,bahmni_product.categ_saleable_drugs,Stockable Product,85fddb30-e70b-4984-ae42-c5b9f7244ab8,
 9eb0a661-f27b-472e-a35d-04dc1dba0860,,Mycrogynon 30,b2727136-70f5-470b-81a2-26aeff3f346f,fdbe907b-6abc-41dc-9599-2d84105e4063,N/A,0,bahmni_product.categ_saleable_drugs,Stockable Product,797c2ca7-b303-4910-b110-a20db545ddc2,
-Uuid,Void/Retire,Name,Concept Drug,Concept Dosage Form,Strength,odoo_price,odoo_category,odoo_type,odoo_id,_version:1
 25dc03a6-b2ca-46d5-8121-43ab025b3e9c,,Neomycine crème 5m/g,dee29eca-5758-4d7f-a98d-9a20551aaac3,0689bb6e-9371-4a0f-ad1c-63c135b1714d,5m/g,60,bahmni_product.categ_saleable_drugs,Stockable Product,6f38b856-d873-4db3-9221-ed5b91fc23c4,
 057862ef-9fe0-40c8-8955-3149b25c4a70,,Nifedipine Co 20mg,251a17f9-c229-4aee-9555-9bf7620b2a5a,fdbe907b-6abc-41dc-9599-2d84105e4063,20mg,3,bahmni_product.categ_saleable_drugs,Stockable Product,2f79da88-f363-476b-90c7-d10448a345ac,
 5650eb5e-97e5-45ed-8b61-46920d3bbc43,,Normal Saline 0.45%,cc4a27b0-78cb-4d3d-9c85-51f4a06d1f4a,90a3f930-2eef-4a2e-8427-5359607c7b13,0.45%,150,bahmni_product.categ_saleable_drugs,Stockable Product,7b6b6ee3-1715-439d-8121-3c84ec3a3cdd,
